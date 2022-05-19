@@ -17,4 +17,10 @@ Contents:
 
 | Year        | Paper Name   |  Venue  |  link  |  Issue  |
 | --------    |    :-----:  | :----:  | :----: | :----:  |
-|2020|ASiNE: Adversarial Signed Network Embedding|  TOIS  | https://dl.acm.org/doi/10.1145/3397271.3401079 | Motivated by GAN   |
+|2020|ASiNE: Adversarial Signed <br> Network Embedding|  TOIS  | https://dl.acm.org/doi/10.1145/3397271.3401079 | Motivated by GAN;<br> Balance Theory;<br> Path Aggregation Embedding |
+
+## Applications
+
+| Year        | Paper Name   |  Venue  |  link  |  Issue  |
+| --------    |    :-----:  | :----:  | :----: | :----:  |
+|2020|Community Detection Algorithm <br> based on Node Similarity <br> in Signed Networks|  TOIS  | https://dl.acm.org/doi/10.1145/3446132.3446184 | TBD |
