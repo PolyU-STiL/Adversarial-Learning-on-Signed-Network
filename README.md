@@ -29,6 +29,6 @@ Contents:
 
 ## Theory
 
-| Year        | Project Name   |  Venue  |  link  |  Issue  |
+| Year        | Project/Paper/Book Name   |  Venue  |  link  |  Issue  |
 | --------    |    :-----:  | :----:  | :----: | :----:  |
 |2020|Signed networks tutorial|  Github  | https://github.com/justbruno/signed-networks-tutorial | TBD |
