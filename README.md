@@ -11,7 +11,7 @@ Contents:
   Community Detection;   
   Recommendation System;   
   Trustwory System, etc.
-* #### Theory：
+* #### Science & Theory：
   Network Science;
 
 ## Adversarial Learning
@@ -27,7 +27,7 @@ Contents:
 | --------    |    :-----:  | :----:  | :----: | :----:  |
 |2020|Community Detection Algorithm <br> based on Node Similarity <br> in Signed Networks|  TOIS  | https://dl.acm.org/doi/10.1145/3446132.3446184 | TBD |
 
-## Theory
+## Science & Theory
 
 | Year        | Project/Paper/Book Name   |  Venue  |  link  |  Issue  |
 | --------    |    :-----:  | :----:  | :----: | :----:  |
