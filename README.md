@@ -19,7 +19,7 @@ Contents:
 
 | Year        | Paper Name   |  Venue  |  link  |  Issue  |
 | --------    |    :-----:  | :----:  | :----: | :----:  |
-|2020|ASiNE: Adversarial Signed <br> Network Embedding|  TOIS  | https://dl.acm.org/doi/10.1145/3397271.3401079 | Motivated by GAN;<br> Balance Theory;<br> Path Aggregation Embedding |
+|2020|ASiNE: Adversarial Signed <br> Network Embedding|  SIGIR  | https://dl.acm.org/doi/10.1145/3397271.3401079 | Motivated by GAN;<br> Balance Theory;<br> Path Aggregation Embedding |
 
 ## Applications
 
