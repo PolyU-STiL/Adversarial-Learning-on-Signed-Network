@@ -26,7 +26,7 @@ Contents:
 | Year        | Paper Name   |  Venue  |  link  |  Issue  |
 | --------    |    :-----:  | :----:  | :----: | :----:  |
 |2022|Trust2Vec: Large-Scale IoT Trust Management <br> System based on Signed Network Embeddings| CoRR | https://arxiv.org/abs/2204.06988 | Trustworthy System |
-|2022|Leader-Follower Opinion Dynamics of Signed Social Networks <br> With Asynchronous Trust/Distrust Level Evolutions|IEEE Transactions on Network Science and Engineering  | https://ieeexplore.ieee.org/document/9585553 | Trustworthy System |
+|2022|Leader-Follower Opinion Dynamics of Signed Social Networks <br> With Asynchronous Trust/Distrust Level Evolutions|IEEE Transactions on Network Science and Engineering  | https://ieeexplore.ieee.org/document/9585553 | Trustworthy System:DeGroot Model |
 
 
 
