@@ -25,7 +25,10 @@ Contents:
 
 | Year        | Paper Name   |  Venue  |  link  |  Issue  |
 | --------    |    :-----:  | :----:  | :----: | :----:  |
-|2020|Community Detection Algorithm <br> based on Node Similarity <br> in Signed Networks|  TOIS  | https://dl.acm.org/doi/10.1145/3446132.3446184 | TBD |
+|2022|Trust2Vec: Large-Scale IoT Trust Management <br> System based on Signed Network Embeddings|    | https://dl.acm.org/doi/10.1145/3446132.3446184 |  |
+
+
+
 
 ## Science & Theory
 
