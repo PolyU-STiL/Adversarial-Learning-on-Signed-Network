@@ -29,6 +29,7 @@ Contents:
 |2022|Leader-Follower Opinion Dynamics of Signed Social Networks <br> With Asynchronous Trust/Distrust Level Evolutions|IEEE Transactions on Network Science and Engineering  | https://ieeexplore.ieee.org/document/9585553 | Trustworthy System:DeGroot Model |
 |2017|On the Troll-Trust Model for Edge Sign <br> Prediction in Social Networks| AISTATS | http://proceedings.mlr.press/v54/falher17a.html | Trustworthy System: Troll-Trust Model |
 |2016|The Troll-Trust Model for Ranking in Signed Networks| WSDM | https://dl.acm.org/doi/10.1145/2835776.2835816 | Trustworthy System: Troll-Trust Model |
+|2019|Supervised User Ranking in Signed Social Networks| AAAI |https://ojs.aaai.org//index.php/AAAI/article/view/3784 | Trustworthy System: TBD |
 
 
 
