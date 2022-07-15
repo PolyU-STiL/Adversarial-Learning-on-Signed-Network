@@ -31,6 +31,8 @@ Contents:
 |2016|The Troll-Trust Model for Ranking in Signed Networks| WSDM | https://dl.acm.org/doi/10.1145/2835776.2835816 | Trustworthy System: Troll-Trust Model |
 |2019|Supervised User Ranking in Signed Social Networks| AAAI |https://ojs.aaai.org//index.php/AAAI/article/view/3784 | Trustworthy System: TBD |
 |2019|SDGNN: Learning Node Representation for Signed Directed Networks| AAAI |https://arxiv.org/pdf/2101.02390v3.pdf | Node Representaion/Link Prediction |
+|2021|Pyrank|  |https://arxiv.org/pdf/2110.09274.pdf| Node Ranking |
+
 
 
 
