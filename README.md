@@ -33,6 +33,7 @@ Contents:
 |2019|SDGNN: Learning Node Representation for Signed Directed Networks| AAAI |https://arxiv.org/pdf/2101.02390v3.pdf | Node Representaion/Link Prediction |
 |2021|Pyrank|  |https://arxiv.org/pdf/2110.09274.pdf| Node Ranking |
 |2022|SaPHyRa: A Learning Theory Approach to Ranking Nodes in Large Networks| ICDE'22 |https://arxiv.org/abs/2203.01746| Node Ranking |
+|2022|PyTorch Geometric Signed Directed: A Survey and Software on Graph Neural Networks for Signed and Directed Graphs|  |https://arxiv.org/pdf/2202.10793v2.pdf|  |
 
 
 
